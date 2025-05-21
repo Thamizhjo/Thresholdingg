@@ -23,8 +23,8 @@ Display the results.
 
 ## Program
 ```
-Developed by: HENRIPRASATH S
-Register No: 212223230077
+Developed by: THAMIZH KUMARAN S
+Register No: 212223240166
 ```
 ### Load the necessary packages
 ```python
